@@ -3,7 +3,7 @@ Hệ thống phân phối lì xì Tết tinh vi vận hành trên Google Apps Sc
 A sophisticated Lunar New Year gift distribution system powered by Google Apps Script and Telegram Bot. Features include weighted probability rewards, secure link redirection with access limits, and browser fingerprinting for anti-fraud protection.
 
 
-# 🧧 TetHash Legacy (hoặc tên sếp chọn)
+
 
 An automated web-based Lucky Money system for Lunar New Year.
 
